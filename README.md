@@ -1,6 +1,6 @@
-#  CramBot - AI Study Companion
+#  Quizzr - AI Study Companion
 
-CramBot is a RAG-powered (Retrieval Augmented Generation) study application. It digests course materials and helps students study in three modes:
+Quizzr is a RAG-powered (Retrieval Augmented Generation) study application. It digests course materials and helps students study in three modes:
 1.  **📝 Note Taker:** Generates concise bullet-point summaries of specific topics.
 2.  **❓ Quiz Generator:** Creates interactive multiple-choice questions to test knowledge.
 3.  **🎥 Video Finder:** Retrieves a YouTube video related to the topic for more information.
